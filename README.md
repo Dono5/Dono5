@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Dono5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# GLToll_for_graphics
+### Gila Gamers™
+*Di khususkan untuk kaum Gila game*
 
-<!---
-Dono5/Dono5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Links
+* [Telegram](https://t.me/No_comment69)
+* [GitHub](https://github.com/Dono5/Dono5)
+### Rekomendasi
+* Mobile lagend
+* PUBG
+* Free fire
+* Genshin impact
+* Dll
